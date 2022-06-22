@@ -17,22 +17,26 @@ Within your deliverable you are expected to:
 11. Challenge your solution by providing insights on how you can make improvements in model improvement. While performing your regression analysis, you will be required to perform modeling using the given regression techniques then evaluate their performance. You will be then required to provide your observations and recommendation on the suitability of each of the tested models on their appropriateness of solving the given problem.
 
 
-1. Multiple Linear Regression
-2. Quantile Regression
-3. Ridge Regression
-4. Lasso Regression
-5. Elastic Net Regression
+
+1) Multiple Linear Regression
+2) Quantile Regression
+3) Ridge Regression
+4) Lasso Regression
+5) Elastic Net Regression
 
 
 **Data Source**
+
 The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)].
 
 **Platforms Used**
+
 Google Colab
 Git/GitHub
 Google Docs
 
 **Technologies Used**
+
 Python
 Pandas Library
 Numpy Library
@@ -43,4 +47,5 @@ Scipy Library
 Math Library
 
 **Technologies Used**
+
 Jupyter notebook (Python)
